@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **learning Web Development and Data Structures and Algorithms.**
 
-- 💬 Ask me about **C++ | Java | C | Python | DSA**
+- 💬 Ask me about **Java | C++ | C | Python | DSA**
 
 - ⚡ Fun fact **I love learning, coding and exploring new domains.**
 
